@@ -8,4 +8,7 @@ O Git Bash faz parte do pacote Git for Windows, que é oferecido no próprio sit
 
 O pacote inclui o próprio Git, o Git Bash e o Git GUI, uma interface gráfica para o Git.
 
-Para mais detalhes da instalação, veja a parte 1 do artigo: Git no Windows e GitHub: Como Instalar e Configurar
+Para mais detalhes da instalação, veja a parte 1 do artigo: Git no Windows e GitHub: Como Instalar e Configurar.
+
+
+mudanças...
