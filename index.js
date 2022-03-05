@@ -1,1 +1,1 @@
-alert("Olá mundo")
+alert("curso zerado")
